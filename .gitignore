@@ -1,0 +1,6 @@
+*.pyc
+__pycachce__
+*venv*
+db.sqite3
+/DS_Store
+todo*
