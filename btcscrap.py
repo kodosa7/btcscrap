@@ -27,4 +27,4 @@ for url in urls:
         for string in strings:
             if string in btc_nibble and not "{" in btc_nibble:
                 print("\nFound: ", btc_nibble)
-                print("Site: ", url)
+                print("Site:  ", url)

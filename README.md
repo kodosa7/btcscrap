@@ -4,7 +4,7 @@
 ## requirements
 - python 3+
 - ```btcscrap.py``` and ```data.py``` in the same dir
-- venv active and ```pip install -r requirements.txt```
+- venv activated and ```pip install -r requirements.txt```
 
 ## run
 ```python btcscrap.py```
