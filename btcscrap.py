@@ -1,5 +1,5 @@
 # btc rise scrapper
-# (c) 01/2021 Aja
+# (c) 01/2021 ELS
 # scraps given websites for given string matches
 
 import requests, re
@@ -8,7 +8,7 @@ from data import urls, btc_strings, strings
 
 
 # Bitcoin rise scrapping app
-print("Bitcoin Rise Web Scrapper (c) 2021 Aja")
+print("Bitcoin Rise Web Scrapper (c) 2021 ELS")
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36"
 }
